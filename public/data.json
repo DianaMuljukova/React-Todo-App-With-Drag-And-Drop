@@ -1,0 +1,32 @@
+{
+  "todo": {
+    "title": "Todo",
+    "items": [
+      {
+        "id": "1",
+        "name": "Clean the house"
+      },
+      {
+        "id": "2",
+        "name": "Clean the car"
+      },
+      {
+        "id": "3",
+        "name": "Learn English"
+      }
+    ]
+  },
+  "in-progress": {
+    "title": "In progress",
+    "items": [
+      {
+        "id": "4",
+        "name": "Go to the shop"
+      }
+    ]
+  },
+  "done": {
+    "title": "Completed",
+    "items": []
+  }
+}
